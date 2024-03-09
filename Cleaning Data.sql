@@ -1,6 +1,7 @@
 /* 
 
 Data cleaning in SQL 
+Using Nashville housing data
 
 */ 
 
